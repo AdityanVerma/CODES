@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate with different people.
 
 ## CODES!!
-Here you can find the solutions for coding/programming competitions and programming challenges like HackerRank,  Coding Ninjas, CodeChef, Geeks Coding Challenge (GCC), LeetCode, Codeforces, etc.
+Here you can find the solutions for Competitive Prgramming Questions/Challenges - HackerRank,  Coding Ninjas, CodeChef, Geeks Coding Challenge (GCC), LeetCode, Codeforces, etc.
 
 ### Connect with me:
 
